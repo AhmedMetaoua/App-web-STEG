@@ -77,8 +77,8 @@ Une application web complète pour analyser les performances des jobs/tâches pl
 
 ### 1. Cloner le Projet
 ```bash
-git clone <votre-repo>
-cd performance-analyzer
+git clone App-web-STEG
+cd App-web-STEG
 ```
 
 ### 2. Installer les Dépendances Python
@@ -287,23 +287,6 @@ Pour activer le mode debug :
 app.run(debug=True, host='0.0.0.0', port=5000)
 ```
 
-## 🔄 Évolutions Futures
-
-### Fonctionnalités Prévues
-- [ ] Authentification utilisateur
-- [ ] Sauvegarde des configurations
-- [ ] Alertes automatiques
-- [ ] Export Excel
-- [ ] API REST complète
-- [ ] Dashboard temps réel
-
-### Améliorations Techniques
-- [ ] Cache Redis pour les performances
-- [ ] Base de données de configuration
-- [ ] Tests unitaires
-- [ ] Conteneurisation Docker
-- [ ] Monitoring et logs structurés
-
 ## 👥 Contribution
 
 Pour contribuer au projet :
@@ -314,7 +297,7 @@ Pour contribuer au projet :
 
 ## 📄 Licence
 
-Ce projet est sous licence MIT. Voir le fichier `LICENSE` pour plus de détails.
+Ce projet est sous licence MIT.
 
 ## 📞 Support
 
